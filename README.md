@@ -22,17 +22,17 @@
 <br/>
 
 ![PostgreSQL_Tables](https://github.com/Neo-Nafiz/Instacart-Analytics/assets/47037404/f7b78d16-8f15-47d8-af95-2aaaf189a238)
-<p align="center">Recording of the tables created from the CSV files in the SQL database</p>
+<h3 align="center">Recording of the tables created from the CSV files in the SQL database</h3>
 <br/>
 
 ![IA1](https://github.com/Neo-Nafiz/Instacart-Analytics/assets/47037404/95b1b7ef-e703-45f6-b15a-1bc56ed6a6ee)
-<p align="center">Grouping products by department and showng the total count of items in each department using a bargraph</p>
+<h3 align="center">Grouping products by department and showng the total count of items in each department using a bargraph</h3>
 <br/>
 
 ![IA2](https://github.com/Neo-Nafiz/Instacart-Analytics/assets/47037404/8d8952e9-7541-4de2-abe2-46b979ad6a45)
-<p align="center">Scatter plot to show the number of purchases by aisle and their reorder rate</p>
+<h3 align="center">Scatter plot to show the number of purchases by aisle and their reorder rate</h3>
 <br/>
 
 ![IA3](https://github.com/Neo-Nafiz/Instacart-Analytics/assets/47037404/8ec3cd2a-7587-4100-b980-b9d38b8a4ead)
-<p align="center">Line graphs to show product sale across time for the produce and frozen department. The color code shows the products were classified between morning buyers and evening buyers.</p>
+<h3 align="center">Line graphs to show product sale across time for the produce and frozen department. The color code shows the products were classified between morning buyers and evening buyers.</h3>
 <br/>
