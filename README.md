@@ -21,8 +21,9 @@
 
 ![PostgreSQL_Tables](https://github.com/Neo-Nafiz/Instacart-Analytics/assets/47037404/f7b78d16-8f15-47d8-af95-2aaaf189a238)
 
-![IA1](https://github.com/Neo-Nafiz/Instacart-Analytics/assets/47037404/c43e59dd-403a-402d-981b-152640e4cab9)
+![IA1](https://github.com/Neo-Nafiz/Instacart-Analytics/assets/47037404/95b1b7ef-e703-45f6-b15a-1bc56ed6a6ee)
 
-![IA2](https://github.com/Neo-Nafiz/Instacart-Analytics/assets/47037404/368a52dc-efa8-43f7-9951-5eebff6c39e2)
+![IA2](https://github.com/Neo-Nafiz/Instacart-Analytics/assets/47037404/8d8952e9-7541-4de2-abe2-46b979ad6a45)
 
-![IA3](https://github.com/Neo-Nafiz/Instacart-Analytics/assets/47037404/7cfefbb0-b9cc-4a1a-8e07-49cd37117079)
+![IA3](https://github.com/Neo-Nafiz/Instacart-Analytics/assets/47037404/8ec3cd2a-7587-4100-b980-b9d38b8a4ead)
+
