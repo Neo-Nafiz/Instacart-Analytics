@@ -10,6 +10,7 @@
 > ```bash
 > kaggle competitions download -c instacart-market-basket-analysis
 > ```
+<h1 align="center">This anonymized dataset contains a sample of over 3 million grocery orders from more than 200,000 Instacart users.</h1>
 
 **Excel:** files in .csv format were used to store the downloaded data.
 
